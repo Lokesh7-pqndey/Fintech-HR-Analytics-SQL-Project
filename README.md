@@ -102,6 +102,27 @@ The dataset contains employee information including:
 
 ---
 
+
+# Fintech HR Analytics SQL Project
+
+## Project Screenshots
+
+### Workforce Summary
+![Workforce Summary](Images/workforce_summary.png)
+
+### Department Payroll
+![Department Payroll](Images/department_payroll.png)
+
+### Department Payroll Analysis
+![Department Payroll Analysis](Images/department_payroll_analysis.png)
+
+### Salary Variance Analysis
+![Salary Variance Analysis](Images/salary_variance_analysis.png)
+
+### Retention Risk Analysis
+![Retention Risk Analysis](Images/retention_risk_analysis.png)
+
+
 ## Technologies Used
 
 * MySQL
