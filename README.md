@@ -1,9 +1,32 @@
 # Fintech-HR-Analytics-SQL-Project
 HR Analytics &amp; Workforce Intelligence Project using SQL | EDA | Window Functions | CTEs | Salary Analysis | Business Insights
 
-## Project Overview
+# Fintech HR Analytics SQL Project
 
-This project analyzes employee workforce data using SQL to uncover business insights related to payroll costs, salary distribution, employee retention risks, hiring trends, and departmental performance.
+## Overview
+
+This project analyzes HR workforce data using SQL to identify payroll trends, workforce distribution, salary variance, and employee retention risks.
+
+The objective is to help HR teams make data-driven decisions regarding compensation planning, workforce management, and employee retention.
+
+### Tools Used
+
+* MySQL
+* SQL
+* GitHub
+
+### Dataset
+
+* Employee Records Dataset
+* Total Employees: XXXX
+* Departments: XXXX
+* Metrics Analyzed:
+
+  * Payroll Cost
+  * Salary Variance
+  * Workforce Distribution
+  * Retention Risk
+
 
 The project demonstrates practical SQL skills including:
 
@@ -130,7 +153,13 @@ The dataset contains employee information including:
 * GitHub
 
 ---
+## Connect With Me
 
+LinkedIn: linkedin.com/in/lokesh-pandey-2265b5218
+
+GitHub: github.com/Lokesh7-pqndey
+
+Portfolio: lokeshpandey-portfolio.netlify.app
 ## Author
 
 Lokesh Pandey
