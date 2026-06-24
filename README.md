@@ -32,6 +32,19 @@ The project demonstrates practical SQL skills including:
 * Business Insight Generation
 
 ---
+## Business Questions
+
+1. Which department has the highest payroll expense?
+
+2. Which employees earn significantly above or below department averages?
+
+3. Which departments have the largest workforce?
+
+4. Which employees are at retention risk?
+
+5. What is the overall workforce distribution across departments?
+
+6. Which department contributes most to total salary expenditure?
 
 ## Dataset Information
 
