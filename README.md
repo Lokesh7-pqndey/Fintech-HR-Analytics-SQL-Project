@@ -7,11 +7,6 @@ This project analyzes HR workforce data using SQL to identify payroll trends, wo
 
 The objective is to help HR teams make data-driven decisions regarding compensation planning, workforce management, and employee retention.
 
-### Tools Used
-
-* MySQL
-* SQL
-* GitHub
 
 ### Dataset
 
