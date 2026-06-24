@@ -1,8 +1,6 @@
 # Fintech-HR-Analytics-SQL-Project
 HR Analytics &amp; Workforce Intelligence Project using SQL | EDA | Window Functions | CTEs | Salary Analysis | Business Insights
 
-# Fintech HR Analytics SQL Project
-
 ## Overview
 
 This project analyzes HR workforce data using SQL to identify payroll trends, workforce distribution, salary variance, and employee retention risks.
