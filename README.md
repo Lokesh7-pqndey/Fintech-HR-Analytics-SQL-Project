@@ -11,15 +11,20 @@ The objective is to help HR teams make data-driven decisions regarding compensat
 ### Dataset
 
 * Employee Records Dataset
-* Total Employees: XXXX
-* Departments: XXXX
+* Total Employees: 30000
+* Departments:06
 * Metrics Analyzed:
-
-  * Payroll Cost
-  * Salary Variance
-  * Workforce Distribution
-  * Retention Risk
-
+- 💰 Total Payroll Cost
+- 📈 Average Salary
+- 📊 Salary Variance by Department
+- 👥 Workforce Distribution
+- ⭐ Performance Distribution
+- 📅 Employee Tenure
+- 🔄 Attrition Rate
+- ⚠️ Retention Risk
+- 🎯 Promotion Analysis
+- 🕒 Overtime Analysis
+- 📌 Department-wise Employee Count
 
 The project demonstrates practical SQL skills including:
 
